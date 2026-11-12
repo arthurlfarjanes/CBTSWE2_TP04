@@ -1,0 +1,28 @@
+# Visual Studio / .NET
+.vs/
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Ll]og/
+[Ll]ogs/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.userprefs
+
+# SQLite databases (opcional: comente se quiser subir o banco de dados pro GitHub)
+*.db
+*.db3
+*.sqlite
+*.sqlite3
+
+# Arquivos de Sistema Operacional
+.DS_Store
+Thumbs.db
