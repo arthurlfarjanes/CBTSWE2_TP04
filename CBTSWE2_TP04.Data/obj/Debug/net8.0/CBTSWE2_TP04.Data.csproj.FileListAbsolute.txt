@@ -1,0 +1,15 @@
+C:\Users\Arthur\Desktop\CBTPRDM_TP03\CBTPRDM_TP03\CBTSWE2_TP04\CBTSWE2_TP04.Data\bin\Debug\net8.0\CBTSWE2_TP04.Data.deps.json
+C:\Users\Arthur\Desktop\CBTPRDM_TP03\CBTPRDM_TP03\CBTSWE2_TP04\CBTSWE2_TP04.Data\bin\Debug\net8.0\CBTSWE2_TP04.Data.dll
+C:\Users\Arthur\Desktop\CBTPRDM_TP03\CBTPRDM_TP03\CBTSWE2_TP04\CBTSWE2_TP04.Data\bin\Debug\net8.0\CBTSWE2_TP04.Data.pdb
+C:\Users\Arthur\Desktop\CBTPRDM_TP03\CBTPRDM_TP03\CBTSWE2_TP04\CBTSWE2_TP04.Data\bin\Debug\net8.0\CBTSWE2_TP04.Models.dll
+C:\Users\Arthur\Desktop\CBTPRDM_TP03\CBTPRDM_TP03\CBTSWE2_TP04\CBTSWE2_TP04.Data\bin\Debug\net8.0\CBTSWE2_TP04.Models.pdb
+C:\Users\Arthur\Desktop\CBTPRDM_TP03\CBTPRDM_TP03\CBTSWE2_TP04\CBTSWE2_TP04.Data\obj\Debug\net8.0\CBTSWE2_TP04.Data.csproj.AssemblyReference.cache
+C:\Users\Arthur\Desktop\CBTPRDM_TP03\CBTPRDM_TP03\CBTSWE2_TP04\CBTSWE2_TP04.Data\obj\Debug\net8.0\CBTSWE2_TP04.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arthur\Desktop\CBTPRDM_TP03\CBTPRDM_TP03\CBTSWE2_TP04\CBTSWE2_TP04.Data\obj\Debug\net8.0\CBTSWE2_TP04.Data.AssemblyInfoInputs.cache
+C:\Users\Arthur\Desktop\CBTPRDM_TP03\CBTPRDM_TP03\CBTSWE2_TP04\CBTSWE2_TP04.Data\obj\Debug\net8.0\CBTSWE2_TP04.Data.AssemblyInfo.cs
+C:\Users\Arthur\Desktop\CBTPRDM_TP03\CBTPRDM_TP03\CBTSWE2_TP04\CBTSWE2_TP04.Data\obj\Debug\net8.0\CBTSWE2_TP04.Data.csproj.CoreCompileInputs.cache
+C:\Users\Arthur\Desktop\CBTPRDM_TP03\CBTPRDM_TP03\CBTSWE2_TP04\CBTSWE2_TP04.Data\obj\Debug\net8.0\CBTSWE2_.056D2045.Up2Date
+C:\Users\Arthur\Desktop\CBTPRDM_TP03\CBTPRDM_TP03\CBTSWE2_TP04\CBTSWE2_TP04.Data\obj\Debug\net8.0\CBTSWE2_TP04.Data.dll
+C:\Users\Arthur\Desktop\CBTPRDM_TP03\CBTPRDM_TP03\CBTSWE2_TP04\CBTSWE2_TP04.Data\obj\Debug\net8.0\refint\CBTSWE2_TP04.Data.dll
+C:\Users\Arthur\Desktop\CBTPRDM_TP03\CBTPRDM_TP03\CBTSWE2_TP04\CBTSWE2_TP04.Data\obj\Debug\net8.0\CBTSWE2_TP04.Data.pdb
+C:\Users\Arthur\Desktop\CBTPRDM_TP03\CBTPRDM_TP03\CBTSWE2_TP04\CBTSWE2_TP04.Data\obj\Debug\net8.0\ref\CBTSWE2_TP04.Data.dll

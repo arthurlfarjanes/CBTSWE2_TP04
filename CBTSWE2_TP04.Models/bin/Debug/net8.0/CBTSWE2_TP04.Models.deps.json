@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "CBTSWE2_TP04.Models/1.0.0": {
+        "runtime": {
+          "CBTSWE2_TP04.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CBTSWE2_TP04.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
